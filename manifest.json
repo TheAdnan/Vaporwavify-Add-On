@@ -1,0 +1,36 @@
+{
+
+  "manifest_version": 2,
+  "name": "Vaporwavify",
+  "version": "1.0",
+  "description": "Setting the font of the page to be in the Vaporwave style",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  
+  "browser_action": {
+    "default_icon": "icons/icon.png"
+  },
+  
+  "background": {
+	"scripts": ["background.js"]
+	},
+	
+	"content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+	  "js": ["jquery.js"]
+	  
+    }
+	],
+
+
+	"permissions": [
+    "activeTab",
+	"tabs",
+	"webRequest"
+	]
+  
+
+}
