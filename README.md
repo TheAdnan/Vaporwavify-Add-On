@@ -1,11 +1,11 @@
-# Vaporwavify (Firefox Add-on)
+# Ｖａｐｏｒｗａｖｉｆｙ　（Ｆｉｒｅｆｏｘ　Ａｄｄ－ｏｎ）
 
-The most aesthetic add-on for firefox there is.
+Ｔｈｅ　ｍｏｓｔ　ａｅｓｔｈｅｔｉｃａｌｌｙ　ａｄｄ－ｏｎ　ｆｏｒ　ｆｉｒｅｆｏｘ　ｔｈｅｒｅ　ｉｓ．
 
-## Installation
-The add-on will be submitted to [Mozilla](https://addons.mozilla.org/en-US/firefox/) for review, and as soon as they approve the add-on, I'll put a download link here.
-Until then, you can use the add-on temporarily:
-* Download and clone this repository on your computer
-* Open a new tab and open *about:debugging*
-* Click on *Load temporary Add-on* and choose any of the files from the repository folder
-* A button with the add-on icon (the red trash dove) should appear in the top right, and you can aestheticize your browsing experience.
+##　Ｉｎｓｔａｌｌａｔｉｏｎ
+Ｔｈｅ　ａｄｄ－ｏｎ　ｗｉｌｌ　ｂｅ　ｓｕｂｍｉｔｔｅｄ　ｔｏ [Ｍｏｚｉｌｌａ](https://addons.mozilla.org/en-US/firefox/) ｆｏｒ　ｒｅｖｉｅｗ，　ａｎｄ　ａｓ　ｓｏｏｎ　ａｓ　ｔｈｅｙ　ａｐｐｒｏｖｅ　ｔｈｅ　ａｄｄ－ｏｎ，　Ｉ＇ｌｌ　ｐｕｔ　ａ　ｄｏｗｎｌｏａｄ　ｌｉｎｋ　ｈｅｒｅ．
+Ｕｎｔｉｌ　ｔｈｅｎ，　ｙｏｕ　ｃａｎ　ｕｓｅ　ｔｈｅ　ａｄｄ－ｏｎ　ｔｅｍｐｏｒａｒｉｌｙ：
+＊　Ｄｏｗｎｌｏａｄ　ａｎｄ　ｃｌｏｎｅ　ｔｈｉｓ　ｒｅｐｏｓｉｔｏｒｙ　ｏｎ　ｙｏｕｒ　ｃｏｍｐｕｔｅｒ
+＊　Ｏｐｅｎ　ａ　ｎｅｗ　ｔａｂ　ａｎｄ　ｏｐｅｎ　＊ａｂｏｕｔ：ｄｅｂｕｇｇｉｎｇ＊
+＊　Ｃｌｉｃｋ　ｏｎ　＊Ｌｏａｄ　ｔｅｍｐｏｒａｒｙ　Ａｄｄ－ｏｎ＊　ａｎｄ　ｃｈｏｏｓｅ　ａｎｙ　ｏｆ　ｔｈｅ　ｆｉｌｅｓ　ｆｒｏｍ　ｔｈｅ　ｒｅｐｏｓｉｔｏｒｙ　ｆｏｌｄｅｒ
+＊　Ａ　ｂｕｔｔｏｎ　ｗｉｔｈ　ｔｈｅ　ａｄｄ－ｏｎ　ｉｃｏｎ　（ｔｈｅ　ｖａｐｏｒｗａｖｅ　ｈｅａｄ）　ｓｈｏｕｌｄ　ａｐｐｅａｒ　ｉｎ　ｔｈｅ　ｔｏｐ　ｒｉｇｈｔ，　ａｎｄ　ｙｏｕ　ｃａｎ　ａｅｓｔｈｅｔｉｃｉｚｅ　ｙｏｕｒ　ｂｒｏｗｓｉｎｇ　ｅｘｐｅｒｉｅｎｃｅ．
