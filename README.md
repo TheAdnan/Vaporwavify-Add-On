@@ -19,11 +19,9 @@ Click The ADD Button
 <br>
 A Sample Webpage Before The Effect
 <br><br><br>
-![alt text](https://image.ibb.co/hrAhgG/Screenshot_from_2017_10_09_19_13_42.png "Website After The Effect--Click The Pink Logo on The Toolbar To Apply Effect")
-<br>
-Website After The Effect--Click The Pink Logo on The Toolbar To Apply Effect
-<br><br><br>
-![alt text](https://image.ibb.co/hJFhgG/Screenshot_from_2017_10_09_19_14_05.png "Another Effect--Click The Logo Again To Apply Different Effects")
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://image.ibb.co/hrAhgG/Screenshot_from_2017_10_09_19_13_42.png)  |  ![](https://image.ibb.co/hJFhgG/Screenshot_from_2017_10_09_19_14_05.png)
 <br>
 Another Effect--Click The Logo Again To Apply Different Effects
 <br><br><br>
