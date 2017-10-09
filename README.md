@@ -6,7 +6,7 @@
 The Add-on is approved and can be found on here: [Vaporwavify](https://addons.mozilla.org/en-US/firefox/addon/vaporwavify/)
 
 ## Screenshots
-
+ 
 ![alt text](https://preview.ibb.co/h532gG/Screenshot_from_2017_10_09_19_12_10.png "Download the Add-On from Firefox Add-Ons Page")
 <br>
 Download the Add-On From Firefox Add-Ons Page
