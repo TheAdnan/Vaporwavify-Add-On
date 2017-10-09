@@ -19,7 +19,4 @@ Click The ADD Button
 <br>
 A Sample Webpage Before The Effect
 <br><br><br>
-<img src="https://image.ibb.co/hrAhgG/Screenshot_from_2017_10_09_19_13_42.png" width="100" height="100" align="left"><img src="https://image.ibb.co/hJFhgG/Screenshot_from_2017_10_09_19_14_05.png" width="100" height="100" align="right">
-<br>
-Another Effect--Click The Logo Again To Apply Different Effects
-<br><br><br>
+<img src="https://image.ibb.co/hrAhgG/Screenshot_from_2017_10_09_19_13_42.png" width="500" height="500" align="left"><img src="https://image.ibb.co/hJFhgG/Screenshot_from_2017_10_09_19_14_05.png" width="500" height="500" align="right">
