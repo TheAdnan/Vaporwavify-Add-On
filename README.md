@@ -6,17 +6,15 @@
 The Add-on is approved and can be found on here: [Vaporwavify](https://addons.mozilla.org/en-US/firefox/addon/vaporwavify/)
 
 ## Screenshots
- 
-![alt text](https://preview.ibb.co/h532gG/Screenshot_from_2017_10_09_19_12_10.png "Download the Add-On from Firefox Add-Ons Page")
-<br>
-Download the Add-On From Firefox Add-Ons Page
-<br><br><br>
-![alt text](https://preview.ibb.co/mBBYow/Screenshot_from_2017_10_09_19_12_54.png "Click the ADD button")
-<br>
-Click The ADD Button
-<br><br><br>
-![alt text](https://preview.ibb.co/nz2v1G/Screenshot_from_2017_10_09_19_13_23.png "A Sample Webpage Before the Effect")
-<br>
 A Sample Webpage Before The Effect
-<br><br><br>
-<img src="https://image.ibb.co/hrAhgG/Screenshot_from_2017_10_09_19_13_42.png" width="500" height="500" align="left"><img src="https://image.ibb.co/hJFhgG/Screenshot_from_2017_10_09_19_14_05.png" width="500" height="500" align="right">
+ 
+![alt text](https://preview.ibb.co/nz2v1G/Screenshot_from_2017_10_09_19_13_23.png "A Sample Webpage Before the Effect")
+<br><br>
+
+Webpage After The Effect
+<br>
+<img src="https://image.ibb.co/hrAhgG/Screenshot_from_2017_10_09_19_13_42.png" align="center">
+<br><br>
+Another Effect
+<br>
+<img src="https://image.ibb.co/hJFhgG/Screenshot_from_2017_10_09_19_14_05.png" align="center">
